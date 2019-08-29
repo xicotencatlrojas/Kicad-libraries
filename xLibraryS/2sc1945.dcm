@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC1945
+D 6A Ic, 80V Vce, Silicon 27MHz RF Power NPN Transistors, TO-220
+K RF Power NPN Transistor
+F http://rtellason.com/transdata/2sc1945.pdf
+$ENDCMP
+#
+#End Doc Library

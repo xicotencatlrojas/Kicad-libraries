@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_02x03
+D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP ZX80-B-5S(30)
+D USB mini/micro connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,44 @@
+﻿IGES to UG
+! INFO-     NX V10.0 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 26-APR-2019  9:29:50 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\H220691\Documents\ElectronikPrototypesKiCAD\xLibrary3D\muym-05xn-5bvh10.igs
+! INFO-     PTC IGES file: muym-05xn-5bvh10.igs                                    
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Line (110/0).................:  4529
+! SUMMARY-  Circular Arc (100/0).........:   433
+! SUMMARY-  B-Spline Curve (126/0-4).....:   258
+! SUMMARY-  Composite Curve (102/0)......:  1074
+! SUMMARY-  Surface of Rev (120/0).......:   143
+! SUMMARY-  B-Spline Surface (128/0-9)...:   377
+! SUMMARY-  Curve of Surface (142/0).....:   537
+! SUMMARY-  Trimmed Surface (144/0)......:   520
+! SUMMARY-  Trans Matrix (124/0,1,10,12).:   433
+! SUMMARY-  Color Definition (314/0,1)...:    15
+! SUMMARY-  Group (402/1,7,14-16)........:     5
+! SUMMARY-  Name (406/15)................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           8329
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 26-APR-2019 9:29:50 AM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-APR-2019  9:29:50 AM
+! INFO-     Filing Part ..: C:\Users\H220691\Documents\ElectronikPrototypesKiCAD\xLibrary3D\muym-05xn-5bvh10_igs.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     9
+! SUMMARY-  Group .......................:     5
+! SUMMARY-  Solid .......................:   520
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            534
+! INFO-      
+! INFO-     End of Translation: 26-APR-2019  9:29:55 AM
+! INFO-      

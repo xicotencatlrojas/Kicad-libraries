@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_TVS_x2_AAC
+D Bidirectional dual transient-voltage-suppression diode, center on pin 3
+K diode TVS thyrector
+F ~
+$ENDCMP
+#
+#End Doc Library
